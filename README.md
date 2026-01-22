@@ -6,7 +6,7 @@ This project analyzes plastic bottle waste scan data to identify major brands, m
 
 ## Dataset
 
-<a href= “https://github.com/Sidexqush/Plastic_Bottle_Waste_Analysis_Using_Excel/blob/main/wastebase_scan_summary_202503F.csv”>Wastebase plastic waste scan summary dataset</a>
+<a href="https://github.com/Sidexqush/Plastic_Bottle_Waste_Analysis_Using_Excel/blob/main/wastebase_scan_summary_202503F.csv">Wastebase plastic waste scan summary dataset</a>
 
 ## Questions
 
