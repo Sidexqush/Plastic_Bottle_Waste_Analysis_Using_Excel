@@ -6,14 +6,14 @@ This project analyzes plastic bottle waste scan data to identify major brands, m
 
 ## Dataset
 
-<a href=“https://github.com/Sidexqush/Plastic_Bottle_Waste_Analysis_Using_Excel/blob/main/wastebase_scan_summary_202503F.csv”>Wastebase plastic waste scan summary dataset</a>
+<a href= “https://github.com/Sidexqush/Plastic_Bottle_Waste_Analysis_Using_Excel/blob/main/wastebase_scan_summary_202503F.csv”>Wastebase plastic waste scan summary dataset</a>
 
 ## Questions
 
-•	Which brands contribute the most to plastic waste?
-•	Which countries record the highest number of plastic waste scans?
-•	What product sizes are most common in waste?
-•	How much are top brands contributing to plastic bottle waste?
+-	Which brands contribute the most to plastic waste?
+-	Which countries record the highest number of plastic waste scans?
+-	What product sizes are most common in waste?
+-	How much are top brands contributing to plastic bottle waste?
 
 ## Dashboard Preview
 
